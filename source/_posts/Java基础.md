@@ -1,5 +1,11 @@
 ---
-translate_title: ''
+title: Java 基础
+categories:
+  - Java
+tags:
+  - Java基础
+translate_title: java-basics
+date: 2019-12-15 20:25:17
 ---
 # Java 基础
 

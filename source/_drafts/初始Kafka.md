@@ -5,6 +5,7 @@ categories:
   - 消息队列
 tags:
   - Kafka
+translate_title: initial-kafka
 date: 2021-01-08 21:56:47
 ---
 
