@@ -1,10 +1,7 @@
 ---
 title: 高性能MySQL
 categories:
-  - Big Data
-tags:
-  - Hadoop
-  - MapReduce
+  - 数据库
 translate_title: highperformance-mysql
 date: 2020-11-29 22:31:44
 ---

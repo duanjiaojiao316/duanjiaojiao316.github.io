@@ -1,5 +1,11 @@
 ---
-translate_title: ''
+title: Spring 框架两大核心机制（IoC、AOP）
+categories:
+  - 后端
+tags:
+  - Spring
+translate_title: two-core-mechanisms-of-the-spring-framework-ioc-aop
+date: 2020-02-23 20:57:04
 ---
 # Spring 框架两大核心机制（IoC、AOP）
 

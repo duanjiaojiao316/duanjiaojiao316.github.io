@@ -1,5 +1,9 @@
 ---
-translate_title: ''
+title: Java虚拟机
+categories:
+  - Java
+translate_title: java-virtual-machine
+date: 2020-02-21 19:45:55
 ---
 
 

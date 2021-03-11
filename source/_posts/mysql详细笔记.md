@@ -1,9 +1,11 @@
 ---
-title: mysql详细笔记
-translate_title: mysql-detailed-notes
-date: 2020-02-23 20:57:04
+title: mysql命令
 categories:
+  - 数据库
 tags:
+  - mysql命令
+translate_title: mysql-command
+date: 2020-02-23 20:57:04
 ---
 
 Windows服务

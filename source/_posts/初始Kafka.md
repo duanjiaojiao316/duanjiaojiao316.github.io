@@ -1,9 +1,10 @@
 ---
 title: 初始Kafka
 categories:
-  - null
+  - 后端
+  - 大数据
 tags:
-  - null
+  - Kafka
 translate_title: initial-kafka
 date: 2021-01-08 21:56:47
 ---

@@ -1,5 +1,12 @@
 ---
-translate_title: ''
+title: 阅读redis设计与实现笔记
+categories:
+  - 后端
+tags:
+  - redis
+  - 阅读笔记
+translate_title: read-redis-design-and-implementation-notes
+date: 2020-02-23 20:57:04
 ---
 # redis设计与实现笔记
 
