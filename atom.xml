@@ -6,7 +6,7 @@
   <link href="https://duanjiaojiao316.github.io/atom.xml" rel="self"/>
   
   <link href="https://duanjiaojiao316.github.io/"/>
-  <updated>2021-04-20T07:44:33.823Z</updated>
+  <updated>2021-04-20T07:58:44.467Z</updated>
   <id>https://duanjiaojiao316.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://duanjiaojiao316.github.io/2021/03/13/%E6%8B%89%E6%A0%BC%E6%9C%97%E6%97%A5%E4%B9%98%E5%AD%90%E6%B3%95/"/>
     <id>https://duanjiaojiao316.github.io/2021/03/13/%E6%8B%89%E6%A0%BC%E6%9C%97%E6%97%A5%E4%B9%98%E5%AD%90%E6%B3%95/</id>
     <published>2021-03-13T06:26:33.000Z</published>
-    <updated>2021-04-20T07:44:33.823Z</updated>
+    <updated>2021-04-20T07:58:44.467Z</updated>
     
     <content type="html"><![CDATA[<p>定义</p><p>要求函数f在g的约束下的极值问题定义为<br>$$<br>minmax f<br>\<br>s.t.\ g = 0<br>$$<br><code>s.t.</code> 标识<code>subject to</code> 表示服从于约束于</p><p>可得<br>$$<br>\triangledown f = \lambda \triangledown g<br>\<br>g = 0<br>$$<br>与<br>$$<br>L_{min} = f - \lambda g<br>\<br>g = 0<br>$$<br>得出方程式相同</p><p>使用一个例子更好的解释上述定义<br>$$<br>f(x,y) = x^2+y^2<br>\<br>s.t.\ g(x,y) = x^2y-3<br>$$<br>得出<br>$$<br>\triangledown f =<br>\left (<br>\begin{array}{cc}<br>\frac{\partial f}{\partial x}<br>\<br>\frac{\partial f}{\partial y}<br>\end {array}<br>\right)<br>=<br>\left (<br>\begin{array}{cc}<br>2x<br>\<br>2y<br>\end {array}<br>\right)<br>=<br>\lambda \triangledown g<br>=<br>\lambda<br>\left (<br>\begin{array}{cc}<br>\frac{\partial g}{\partial x}<br>\<br>\frac{\partial g}{\partial y}<br>\end {array}<br>\right)<br>=<br>\lambda<br>\left (<br>\begin{array}{cc}<br>2xy<br>\<br>x^2<br>\end {array}<br>\right)<br>$$<br>简化整合得<br>$$<br>\left{<br>\begin{array}{rcl}<br>2x = \lambda 2xy<br>\<br>2y=\lambda x^2<br>\<br>x^2y=3<br>\end{array}<br>\right.<br>$$<br>使用Lmin求最小值也是通过求偏导得到极值，所以得出的方程组同上式</p>]]></content>
     
