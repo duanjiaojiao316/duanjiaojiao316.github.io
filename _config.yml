@@ -41,7 +41,13 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
+# 生成图片保存文件夹
 post_asset_folder: true
+# 安装插件hexo-renderer-marked，hexo和Typora的相同方式引用图片
+marked:
+  prependRoot: true
+  postAsset: true
+
 relative_link: false
 future: true
 highlight:
