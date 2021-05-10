@@ -4,9 +4,8 @@ categories:
   - 数据库
 tags:
   - redis
-translate_title: ''
+translate_title: redis-masterslave-architecture-data-synchronization-principle
 date: 2021-04-25 23:11:33
-title:
 ---
 
 # `Redis`主从架构数据同步原理
