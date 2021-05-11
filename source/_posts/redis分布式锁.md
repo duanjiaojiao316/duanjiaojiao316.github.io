@@ -1,5 +1,5 @@
 ---
-title: redis分布式锁
+title: Redis分布式锁
 categories:
   - null
 tags:
